@@ -167,6 +167,7 @@ private fun CardContent(name: String) {
     uiMode = UI_MODE_NIGHT_YES,
     name = "DefaultPreviewDark"
 )
+
 @Preview(showBackground = true, widthDp = 320)
 @Composable
 fun DefaultPreview() {
